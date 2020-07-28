@@ -59,4 +59,3 @@ function tinyFriend(name){
     }
     return largest;
 }
-;
